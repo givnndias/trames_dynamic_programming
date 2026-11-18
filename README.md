@@ -4,10 +4,9 @@ Algoritmo acadêmico em Python para buscar, classificar e recalcular percursos u
 
 ## Integrantes
 
-- Giovanna Oliveira Ferreira Dias
-- Maria Laura Pereira Druzeic
-- Marianne Mukai Nishikawa
-
+- Giovanna Oliveira Ferreira Dias - RM566647
+- Maria Laura Pereira Druzeic - RM566634
+- Marianne Mukai Nishikawa - RM568001
 ## Objetivo
 
 O Trames propõe percursos urbanos que considerem características além da distância. Nesta entrega, o algoritmo utiliza o custo de recomendação produzido pela Engenharia de Features para comparar caminhos e apresenta o Índice de Adequação da Rota (IAR) e os scores associados aos trechos.
